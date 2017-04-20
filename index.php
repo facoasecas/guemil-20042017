@@ -25,11 +25,13 @@ $json_data = json_decode($json,true);
 <div class="col-sm-12">
 <header>
 <h1><a href="http://www.guemil.info">Guemil Project</a></h1>
+<hr>
 <button type="button" class="btn btn-sm btn-default" id="all">All results</button>
 <button type="button" class="btn btn-sm btn-success" id="best">Only best results</button>
 <button type="button" class="btn btn-sm btn-info" id="second">Only second best results</button>
 <button type="button" class="btn btn-sm btn-warning" id="average">Only average results</button>
 <button type="button" class="btn btn-sm btn-danger" id="low">Only low results</button>
+</hr>
 </header>
 </div><!--/col-sm-12-->
 
