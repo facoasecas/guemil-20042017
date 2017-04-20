@@ -31,7 +31,7 @@ $json_data = json_decode($json,true);
 <button type="button" class="btn btn-sm btn-info" id="second">Only second best results</button>
 <button type="button" class="btn btn-sm btn-warning" id="average">Only average results</button>
 <button type="button" class="btn btn-sm btn-danger" id="low">Only low results</button>
-</hr>
+<hr>
 </header>
 </div><!--/col-sm-12-->
 
